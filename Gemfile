@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in opencv.gemspec
-gemspec
+gem 'ruby-opencv', '~> 0.0.17'
+
+gem 'pry'
+
